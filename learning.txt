@@ -1,7 +1,0 @@
-Git Learning
--------------
-1. The Power of "Distributed" Version Control
-2. Commits Take Immutable Snapshots (Not Duplicates)
-3. Branching Allows Risk-Free Experimentation
-4. Code Travels Through Distinct Stages Locally
-5. GitHub Powers Global Collaboration and Automation
