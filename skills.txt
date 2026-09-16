@@ -1,9 +1,0 @@
-Technical Skills:
-
-Python
-Java
-SQL
-AWS Cloud
-Pandas
-Numpy
-React
